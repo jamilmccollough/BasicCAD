@@ -26,7 +26,7 @@ The first assignment is to create the caster base.  The base's dimensions are 20
 ~~~
 <img src="images/Base.jpg" alt="The Base" width="200">
 ~~~
-
+<img src="https://github.com/OneCHSEngr/BasicCAD/blob/master/images/Base.jpg" width="400">
 ### Reflection
 
 This was my first Onshape part and [following along with Dr. Shields made it super easy.](https://www.youtube.com/watch?v=93BFUD-HAG8&feature=emb_title&scrlybrkr=5670f0b4)  I learned about 
